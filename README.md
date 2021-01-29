@@ -7,3 +7,9 @@ Autoencoders are neural networks capable of encoding and compressing the data, w
 Following is the sample of the reconstructions made by the Convolutional AutoEncoder
 
 ![alt text](https://github.com/Madhurima1997/Content-Based-Image-Retrieval-using-Autoencoder/blob/main/Screenshots/Reconstructions.PNG "Reconstructions from AutoEncoder")
+
+## Few Results of Image Retrieval
+
+![alt text](https://github.com/Madhurima1997/Content-Based-Image-Retrieval-using-Autoencoder/blob/main/Screenshots/Retrieval-1.PNG "Result-1")
+
+![alt text](https://github.com/Madhurima1997/Content-Based-Image-Retrieval-using-Autoencoder/blob/main/Screenshots/Retrieval-2.PNG "Result-2")
