@@ -13,3 +13,8 @@ Following is the sample of the reconstructions made by the Convolutional AutoEnc
 ![alt text](https://github.com/Madhurima1997/Content-Based-Image-Retrieval-using-Autoencoder/blob/main/Screenshots/Retrieval-1.PNG "Result-1")
 
 ![alt text](https://github.com/Madhurima1997/Content-Based-Image-Retrieval-using-Autoencoder/blob/main/Screenshots/Retrieval-2.PNG "Result-2")
+
+## Accuracy Measurement
+Precision measure is used for assessing the performance of the retrievals using KNN. The mean presision of every retrieval of test data determines the precision of the model.The Precision graph is as follows:
+
+![alt text](https://github.com/Madhurima1997/Content-Based-Image-Retrieval-using-Autoencoder/blob/main/Screenshots/Mean%20Precision%20Graph.PNG "Graph")
